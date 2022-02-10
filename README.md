@@ -25,7 +25,7 @@ I'm Sunit Jalan, doing my Bachelor's Degree in Information Technology from Manip
 - 💬 Ask me anything! I would be happy to have discussions on Coding Problems, Algorithms, Data Structures, Graphics, Flutter, Unity or any up and coming tech stack.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sunitjalan/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiqqia&label=Profile Views&color=blue&style=plastic" alt="sunitjalan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitjalan&label=Profile Views&color=blue&style=plastic" alt="sunitjalan" /> </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunitjalan&show_icons=true&theme=tokyonight" alt="Sunit's Github Stats" />
