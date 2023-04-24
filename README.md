@@ -1,9 +1,10 @@
-### Code-Hearted <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50" align ="center">
+### Code-Blooded <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50" align ="center">
 <p  align="left"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 ## Hello there 👋
-I Sunit Jalan, pursuing Bachelor's Degree in Information Technology from Manipal Institute Of Technology, Manipal. Also undertaking Online Bachelor of Science in Data Science from Indian Institute Of Technology, Madras. Currently working on Application and Web Development projects with my colleagues. I'd taken up on many Unity 3D Game Development projects. Looking for additional projects or internships to broaden my understanding in the field.
+I Sunit Jalan, pursuing Bachelor's Degree in Information Technology from Manipal Institute Of Technology, Manipal. Also undertaking Online Bachelor of Science in Data Science from Indian Institute Of Technology, Madras. Currently working as a Summer Analyst at Goldman Sachs in the Asset Management Department of Engineering. Love working on Application and Web Development projects with my colleagues. I'd taken up on many Unity 3D Game Development projects. Looking for additional projects or internships to broaden my understanding in the field.
 ### Summary 👨‍
+- 🖥️ Working as a Summer Intern 2023 for Goldman Sachs.
 - 🔭 Currently trying my hands on Competitive Coding, and doing Apllication Development.
 - 👯 Looking to collaborate on any project or competition that will help me widen my horizon in the world of technology.
 - 💬 Ask me anything! I shall be happy to have discussions on Coding Problems, Algorithms, Data Structures, Graphics, Flutter, Unity or any up and coming tech stack.
